@@ -34,8 +34,6 @@ def caiquan():
 
             elif user_quan < computer_quan:
                 print('赢')
-		print('branch a')
-		print('master')
 
             elif user_quan > computer_quan:
                 print('输')
